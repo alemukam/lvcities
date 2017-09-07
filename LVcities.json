@@ -235,12 +235,6 @@
   },
   {
     "country": "LV",
-    "name": "Garkalne",
-    "lat": "57.04486",
-    "lng": "24.41951"
-  },
-  {
-    "country": "LV",
     "name": "Ropaži",
     "lat": "56.97389",
     "lng": "24.63361"
@@ -349,7 +343,7 @@
   },
   {
     "country": "LV",
-    "name": "Nīca",
+    "name": "Rucavas Novads",
     "lat": "56.34601",
     "lng": "21.06401"
   },
